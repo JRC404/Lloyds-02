@@ -1,0 +1,12 @@
+div {
+    background-color: crimson;
+    color: white;
+    /* padding: 20px;  */
+    /* one value for padding means the element will have 20px of padding on the top, on the right, on the bottom and on the left */
+    /* padding: 20px 25px; */
+    /* two values for padding means the element will have 20px of padding on the top and the bottom, 25px of padding on the right and the left */
+    /* padding: 20px 25px 30px; */
+    /* three values for padding means the element will have 20px for the top, 25px for the right and left and 30px for the bottom */
+    padding: 20px 25px 30px 35px;
+    /* four values for padding means the element will have 20px for the top, 25px for the right, 30px for the bottom and 35px for the left */
+}

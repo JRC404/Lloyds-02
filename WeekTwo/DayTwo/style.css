@@ -1,0 +1,72 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: crimson;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+
+li a:hover {
+    background-color: white;
+    color: crimson;
+    /* text-decoration: underline; */
+}
+
+h1 {
+    color: red;
+}
+
+.large {
+    font-size: 250px;
+}
+
+.purple {
+    color: purple;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#headerOne {
+    /* referencing the ID headerOne */
+    font-size: 100px;
+    text-align: right;
+}
+
+#headerTwo {
+    /* referencing the ID headerTwo */
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+#paragraphOne {
+    /* referencing the ID paragraphOne */
+    text-align: center;
+}
+
+#paragraphTwo {
+    /* referencing the ID paragraphTwo */
+    color: crimson;
+}
