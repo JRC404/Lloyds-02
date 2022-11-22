@@ -61,3 +61,15 @@
     * Azure Data Studio
     * VSCode
 * Login to the server using the credentials and server address
+
+## The role of a Quality Engineer in Data
+
+* Ensure the database is able to be connected to
+* Ensure the database rejects incorrect information
+* Ensure the SQL queries return data in the correct format
+* Verification and validation are present
+* User permissions are in place
+* CRUD is present:
+    * Can the application perform all 4 actions?
+    * Do the user permissions stop certain groups performing all 4 actions?
+

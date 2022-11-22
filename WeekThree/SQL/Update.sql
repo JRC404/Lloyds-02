@@ -10,6 +10,10 @@ UPDATE Employees
 SET Location = 'Fife', Employed = 1
 WHERE Salary < 50000;
 
+UPDATE Employees
+SET Gender = 'Female'
+WHERE EmployeeID = 4;
+
 SELECT * FROM Employees;
 
 -- PLEASE UPDATE GENDER COLUMN WITH DATA FOR ALL ROWS
